@@ -1,1 +1,2 @@
-# CRUD-Fullstack
+# CRUD-javascript
+CRUD de Cadastro de Funcionários
